@@ -1,10 +1,11 @@
 ## Jetfuel Take Home Test
 
-Mobile-formatted influencer social media application created with React. Mockup and assets created in Figma. 
+Mobile-formatted influencer social media application created with React. Mockup and assets created in Figma.
 
-To run application: 
+To run application:
 
 `npm install`
 
 `npm start`
 
+![Screenshot of Application](./assets/screenshots.png)
