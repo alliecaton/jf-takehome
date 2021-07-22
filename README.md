@@ -8,4 +8,4 @@ To run application:
 
 `npm start`
 
-![Screenshot of Application](./assets/screenshots.png)
+![Screenshot of Application](./src/assets/screenshots.png)
