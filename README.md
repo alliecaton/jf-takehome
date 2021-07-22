@@ -1,6 +1,6 @@
 ## Jetfuel Take Home Test
 
-Mobile-formatted influencer social media application created with React. Mockup and assets created in Figma.
+Mobile-formatted influencer social media application created with React. Mockup and assets created in Figma. Time capped at 3 hours.
 
 To run application:
 
