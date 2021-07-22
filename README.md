@@ -4,6 +4,6 @@ Mobile-formatted influencer social media application created with React. Mockup 
 
 To run application: 
 
-### `npm install`
-### `npm start`
+`npm install`
+`npm start`
 
